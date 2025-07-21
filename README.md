@@ -3,6 +3,7 @@ This project involves developing a Basic Network Security Scanner using Bash scr
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 Echo defination:- The echo command in Bash (and other Unix shells) is used to display a line of text or a variable value to the terminal or standard output.
+
 Basic Syntax:- 
                 echo [option] [string]
             
